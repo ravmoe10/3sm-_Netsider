@@ -1,0 +1,23 @@
+body{
+
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffc40065;
+}
+
+p{
+    font-size: 25px;
+    color: black;
+   
+}
+.title{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+.tips{
+    font-size: 20px;
+    color: black;
+    
+    background-color: #ff000065;
+    color: #0000ff;
+}
